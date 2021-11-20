@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Shopping Yuk</string>
+    <string name="move_jualan1">Jualan Rok</string>
+    <string name="dummy_photos">2 Photos</string>
+    <string name="dummy_value">RP. 500K</string>
+    <string name="stock">36292</string>
+    <string name="seller">DiJual Oleh</string>
+    <string name="my_name">Riska Ardila</string>
+    <string name="content_text">Ready stock Rok plisket midi 7/8
+Kode : Rok plisket midi
+Detail Size : ● All size fit to - XXL muat sampai BB 80kg
+● Panjang 73 cm
+● Lingkar pinggang 60 - 120 cm
+● Bagian bawah rok di cutting tanpa jahitan, full karet
+Material : moumbloe import ( tebal, adem,mulur, jatuh)
+Warna. : ijo botol, mocca, navy, black, abu tua, khaki</string>
+    <string name="deskripsi_produk">deskripsi produk</string>
+    <string name="bahan">bahan</string>
+    <string name="content_spec_bahan">Calf-length skirt in pleated chiffon with a high, elasticated waist. Satin lining.</string>
+    <string name="size">size</string>
+    <string name="content_spec_size">Produk dengan ukuran P (Petite) dan S (Small) memiliki ukuran lebih pendek dan telah disesuaikan dengan bentuk badan orang Asia.
+Anda hanya perlu mengikuti hitungan lebar pada tabel pengukuran yang telah disediakan.
+Produk dengan ukuran L (Tall) memiliki penambahan 3-4cm dari ukuran pada tabel ukuran.</string>
+    <string name="model_rok">model rok</string>
+    <string name="content_spec_model_rok">Rempel</string>
+    <string name="tinggi_pinggang">tinggi pinggang</string>
+    <string name="content_spec_tinggi_pinggang">Mid Waist</string>
+    <string name="buy">buy</string>
+
+
+    <string name="move_jualan2">move jualan2</string>
+    <string name="dummy_photos2">2 Photos</string>
+    <string name="dummy_value2">RP. 700K</string>
+    <string name="stock2">209</string>
+    <string name="content_text2">Dress bisa berbagai macam modelnya, mulai dari
+        bridesmaid dress yang biasa digunakan oleh para wanita ketika ada acara
+        kondangan sampai dengan bodycon dress yang memiliki model membentuk
+        tubuh, sehingga Anda yang mengenakannya akan terlihat lebih seksi.
+        Cara merawat gaun dress wanita pun juga berbeda-beda.</string>
+    <string name="deskripsi_produk2">Deskripsi Produk</string>
+    <string name="bahan2">Bahan</string>
+    <string name="content_spec_bahan2">80% viscose 20% soft woven polyester</string>
+    <string name="Size">size</string>
+    <string name="content_spec_size2">Lingkar Dada x Lingkar Lengan x Lingkar Pinggang x Panjang:
+XS: Bust: 86 - Armhole: 44 - Waist: 70 - Length: 108 cm
+S: Bust: 90 - Armhole: 46 - Waist: 74 - Length: 110 cm
+M: Bust: 94 - Armhole: 48 - Waist: 78 - Length: 112 cm
+L: Bust: 99 - Armhole: 50.5 - Waist: 83 - Length: 114 cm
+XL: Bust: 104 - Armhole: 53 - Waist: 88 - Length: 116 cm</string>
+    <string name="warna">warna</string>
+    <string name="spec_warna">White</string>
+    <string name="petunjuk_perawatan">Petunjuk Perawatan</string>
+    <string name="spec_petunjuk_perawatan">\tCuci terpisah Gunakan deterjen lembut Jangan gunakan pemutih Setrika dengan suhu rendah</string>
+</resources>
